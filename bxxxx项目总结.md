@@ -9,3 +9,17 @@
 2. 遇到的问题
 3. 每日沟通的方式
 4. Tips: 如何让Android模拟器加速
+
+
+#####Android 面试问题
+1. layout
+2. Activity 生命周期
+3. Cache Performance
+4. Dynamic config
+5. push notification
+6. Fragment生命周期
+7. android 学习能力，学习渠道
+8. how to track user behavior
+9. background service 多线程优先级
+10. restful前后端
+11. 客户端的存储缓存方式
